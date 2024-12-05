@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test_async_value",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Android-GalaxyS10",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "RF8MA0X9GBL"
+        },
+        {
+            "name": "iOS-iPhoneXR",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "00008020-000C61D90AD1002E"
+        },
+    ]
+}
